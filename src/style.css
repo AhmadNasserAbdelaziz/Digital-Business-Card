@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+.page {
+    align-items: center;
+    background-color: #1C1C1C;
+}
+
+.container{
+width: 550px;
+
+background-color: #23252C;
+margin-left: 30%;
+}
+
+.PersonalPicture {
+    width: 317px;
+    height: 317px;
+    margin-left: 116px;
+    margin-right: 117px;
+    margin-top: 44px;;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.name{
+    text-align: center;
+}
+.myname {
+    font-family: serif ;
+    color: #ffff;
+    font-weight: 700;
+    line-height: 30.26px;
+}
+
+.myjob
+{
+    font-family: Inter, sans-serif ;
+    font-weight: 400;
+    color: #F3BF99 ;
+
+}
+
+.myemail
+{
+    font-family: Inter, sans-serif ;
+    font-weight: 400;
+    color: #fff ;
+    text-decoration: none;
+ }
+
+
+ .buttons
+ {
+    text-align: center;
+    display:block;
+ }
+
+ .EmailButton{
+    font-family: inter , sans-serif;
+    font-size: 14px;
+    width: 115px;
+    height: 34px;
+    margin-right: 17px;
+    margin-top: 15px;
+    background-color: #FFFFFF;
+    padding: 9px 13px 9px 11px ;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+
+ }
+ .LinkedinButton{
+    font-family: inter , sans-serif;
+    font-size: 14px ;
+    color: #FFFFFF;
+     width: 115px;
+     height: 34px;
+     margin-top: 15px;
+     background-color: #5093E2;
+     padding: 9px 13px 9px 11px ;
+     border-radius: 6px     ;
+     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+
+ }
+
+ .about{
+    text-align: center;
+    display: block;
+    margin-left:36px ;
+    margin-right: 34px;
+ }
+
+ .aboutme
+ {
+    text-align:left ;
+    color: white;
+
+ }
+
+ .aboutme2 
+ {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 150%;
+    color:#fff;
+    text-align:left ;
+
+ }
+
+
+ .footer
+ {
+     background-color: rgba(22, 22, 25, 1);
+     height:64px;
+  display: flow-root;
+   
+ }
+
+ .footericons 
+ {
+    display: flex;
+     column-gap: 20px;
+     margin-left: 73px;
+     margin-right: 70px;
+     margin-top: 20px;
+     justify-content: space-between;
+     color: grey;
+ }
